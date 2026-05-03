@@ -6,7 +6,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=8B5CF6&center=true&vCenter=true&lines=₊✩‧₊˚౨ৎ˚₊✩‧₊&repeat=false"/>
 </p>
  
-<p align="center">color=8B5CF6&center=true&vCenter=true&size=18&width=700&lines=Informatics+Engineering+Student+at+UNAIR;Learning+with+purpose+and+consistency;Turning+ideas+into+simple+systems;Growing+little+by+little+✨"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=8B5CF6&center=true&vCenter=true&size=18&width=700&lines=Informatics+Engineering+Student+at+UNAIR;Learning+with+purpose+and+consistency;Turning+ideas+into+simple+systems;Growing+little+by+little+✨"/>
 </p>
 
 
