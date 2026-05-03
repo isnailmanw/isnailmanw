@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=isnailmanw&theme=tokyonight&hide_border=true&ring=8B5CF6&fire=A78BFA&currStreakLabel=8B5CF6"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=isnailmanw&show_icons=true&rank_icon=github&hide_border=true&title_color=8B5CF6&icon_color=A78BFA&text_color=6b7280" />
 </p>
 
 <p align="center">
