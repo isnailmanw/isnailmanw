@@ -3,15 +3,16 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=8B5CF6&center=true&vCenter=true&lines=₊✩‧₊˚౨ৎ˚₊✩‧₊&repeat=false"/>
+</p>
+ 
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=8B5CF6&center=true&vCenter=true&size=18&width=700&lines=Informatics+Engineering+Student+at+UNAIR;Learning+with+purpose+and+consistency;Turning+ideas+into+simple+systems;Growing+little+by+little+✨"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=A78BFA&center=true&vCenter=true&repeat=false&lines=✦+✧+✦"/>
-</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isnailmanw&show_icons=true&rank_icon=github&hide_border=true&title_color=8B5CF6&icon_color=A78BFA&text_color=6b7280" />
+  <img src="https://github-readme-stats.vercel.app/api?username=isnailmanw&show_icons=true&hide_border=true&title_color=8B5CF6&icon_color=A78BFA&text_color=6b7280&ring_color=8B5CF6" />
 </p>
 
 <p align="center">
@@ -19,5 +20,5 @@
 </p>
 
 <p align="center">
-  💜 ✨ 🌙 ✨ 💜
+  <img src="https://readme-typing-svg.herokuapp.com?color=8B5CF6&center=true&vCenter=true&lines=𓇼𓏲*ੈ✩‧₊˚𓇼&repeat=false"/>
 </p>
