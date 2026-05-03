@@ -20,5 +20,9 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=isnailmanw&theme=tokyonight&hide_border=true&ring=8B5CF6&fire=A78BFA&currStreakLabel=8B5CF6"/>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=8B5CF6&center=true&vCenter=true&lines=𓇼𓏲*ੈ✩‧₊˚𓇼&repeat=false"/>
 </p>
